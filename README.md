@@ -1,4 +1,4 @@
-# Project-4
+# External Merge Sort
 
 Project Extras:  You are to implement  the external file merge sort using the algorithm steps as given in class. 
   	
